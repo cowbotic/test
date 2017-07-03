@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Bangers|Fira+Sans+Extra+Condensed:300,400');
 
-body            { background: white; }
+body            { background: red; }
 a, h1, h2       { color: #377BA8; }
 h1, h2          { font-family: 'Bangers', cursive; margin: 0; }
 h1              { border-bottom: 2px solid #eee; }
